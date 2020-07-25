@@ -1,0 +1,33 @@
+.Titulo {
+    text-align: center;
+    font-size: 35;
+    font-style: italic;
+}
+.Paragrafo {
+    text-align: center;
+    font-size: 27;
+    font-style: normal;
+}
+.Subtitulo {
+    text-align: center;
+    font-size: 29;
+}
+.Texto {
+    text-align: justify;
+    font-size: 22px;
+    font-style: oblique;
+    text-align: center;
+}
+body {
+    background-image: url(fundo3.webp);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.Texto2 {
+    color: dimgray;
+    text-align: justify;
+    font-size: 20px;
+    font-style: oblique;
+    text-align: center;
+}
